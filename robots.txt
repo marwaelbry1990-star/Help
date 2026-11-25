@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seo-two-phi.vercel.app/sitemap.xml
